@@ -1,3 +1,11 @@
+/* Written by John Bartholomew.
+ *
+ * I place this code in the public domain. You may use this
+ * code for any purpose, without charge or other restriction,
+ * but the code comes with no warranty, either express or
+ * implied.
+ */
+
 #include <gmp.h>
 
 #include <stdio.h>
