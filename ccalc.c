@@ -117,6 +117,7 @@ static void print_help(FILE *to) {
          "  s         Swap top two items\n"
          "  x         Pop stack\n"
          "  c         Clear stack\n"
+         "  ? help    Show this help message\n"
          "  q         Quit\n",
          to);
 }
